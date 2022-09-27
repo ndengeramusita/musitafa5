@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+p{
+    background-color: chartreuse;
+}
+body{
+    border:1px solid black ;
+    background-image: url("627.jpg");
+}
